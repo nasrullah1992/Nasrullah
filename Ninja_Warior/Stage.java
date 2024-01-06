@@ -13,8 +13,8 @@ public class Stage extends World
     public Stage()
     {    
         
-        super(1200, 600, 1); 
-        this.setBackground(new GreenfootImage("sky.jpg"));
+        super(800, 600, 1); 
+        this.setBackground(new GreenfootImage("awan.jpg"));
         
     }
     private void prepare()
